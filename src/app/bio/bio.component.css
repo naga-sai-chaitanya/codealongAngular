@@ -1,0 +1,13 @@
+#home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  color: white;
+  height: 450px;
+}
+
+#bio {
+  display: flex;
+  align-items: center;
+}

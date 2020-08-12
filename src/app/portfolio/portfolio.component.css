@@ -1,0 +1,23 @@
+#portfolio div{
+    display:flex;
+    justify-content: space-around;
+    margin:10px 0;
+    width:100%;
+  }
+  pr
+  .link-button {
+    text-decoration: none;
+    text-align: center;
+    background: orangered;
+    cursor: pointer;
+    font-weight: 200;
+    letter-spacing: 0.5px;
+    color: white;
+    font-size: 1.8em;
+    padding:10px;
+    border-radius: 5%;
+    border-color:black;
+  }
+  .link-button:hover {
+    color: white;
+  }
